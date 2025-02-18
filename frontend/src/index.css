@@ -1,0 +1,5 @@
+/* 这里可以添加全局 CSS，支持 TailwindCSS 或自定义样式 */
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
